@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/ProjetoPOO/src/controller/UsuarioController.java</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/ProjetoPOO/src/model/Usuario.java</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/ProjetoPOO/src/view/crud/TelaAtualizaUsuario.java</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/ProjetoPOO/src/dao/DAOException.java</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/ProjetoPOO/src/view/crud/TelaExcluirUsuario.java</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/ProjetoPOO/src/view/crud/TelaCadastroUsuario.java</file>
+            <file>file:/C:/Users/franc/Documents/NetBeansProjects/ProjetoPOO/src/dao/UsuarioDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
